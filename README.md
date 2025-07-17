@@ -1,1 +1,1 @@
-recete
+recete.html
