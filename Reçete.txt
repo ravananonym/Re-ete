@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8" />
+    <title>Hasta ve Doktor Bilgileri</title>
+</head>
+<body>
+    <h1>Hasta Bilgileri:</h1>
+    <p>Ad Soyad: Ravan Hasanov</p>
+    <p>Doğum Tarihi: 04.06.2003</p>
+    <p>T.C. Kimlik No: 99658394890</p>
+
+    <h1>Doktor Bilgileri:</h1>
+    <p>Ad Soyad: Uzm. Dr. Şükrü Yücel</p>
+    <p>Branş: Nöroloji Uzmanı</p>
+    <p>Diploma No: 0426258</p>
+</body>
+</html>
